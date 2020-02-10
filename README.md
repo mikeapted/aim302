@@ -1,4 +1,4 @@
-# Notebook for the AIM302 workshop: "Direct Marketing w/ Amazon SageMaker"
+# Direct Marketing w/ Amazon SageMaker
 
 ## Companion slides
 
