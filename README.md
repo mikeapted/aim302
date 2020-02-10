@@ -2,7 +2,7 @@
 
 ## Companion slides
 
-https://view.highspot.com/viewer/5e40b6f5f7794d6d6c10ba39
+https://view.highspot.com/viewer/5e40bb5a6a3b1115f76c1227
 
 ## Setup instructions
 
